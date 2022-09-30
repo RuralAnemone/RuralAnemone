@@ -1,6 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Didact+Gothic&size=23&duration=2000&pause=420&color=9D1DF7&width=435&lines=yo;I'm+rural;I+sometimes+code+decent+things;I+like+to+think+I'm+good+at+js;uh;yeah;so+there;" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.herokuapp.com?font=Didact+Gothic&size=23&duration=2000&pause=420&color=9D1DF7&width=435&lines=yo;I'm+rural;I+sometimes+code+decent+things;I+like+to+think+I'm+good+at+js;uh;yeah;so+there;...;What?;So... what?;huh?;pardon?;geez...;mmm?;you're+annoying!;dang+me!;yeah,+yeah;ah,+ha+ha!;good+luck,+ok?;Here,+get+yourself+a+juice+or+something...;(Ness+got+50+dollars.);...;"><img src="https://readme-typing-svg.herokuapp.com?font=Didact+Gothic&size=23&duration=2000&pause=420&color=9D1DF7&width=435&lines=yo;I'm+rural;I+sometimes+code+decent+things;I+like+to+think+I'm+good+at+js;uh;yeah;so+there;...;" alt="Typing SVG" /></a>
 <h1 align="center">hi 👋, I'm rural</h1>
 <h3 align="center">a musician who moonlights as a bad programmer</h3>
+<br>
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/RuralAnemone/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/RuralAnemone/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/RuralAnemone/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<br>
+<a href="https://octoprofile.vercel.app/user?id=RuralAnemone">Check out my Octoprofile</a>
 <h2>the funny:</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="the funny" />
 <h2>about me:</h2>
@@ -35,7 +39,7 @@
 
 - 👨‍💻 ~~All~~ some of my projects are available at [https://ruralanemone.tech/](https://ruralanemone.tech/).
 
-- 📫 How to reach me [my epic discord server](https://discord.gg/PF3Kc8W6AV).
+- 📫 How to reach me: [my epic discord server](https://discord.gg/PF3Kc8W6AV) or [my email](mailto:dev@ruralanemone.tech)
 
 - ⚡ Fun fact [I have been playing piano for like 10 years and am probably about to go professional](https://ruralanemone.sellix.io/category/63211d2f727d4)!
 
@@ -53,10 +57,3 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RuralAnemone&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="RuralAnemone" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dark" alt="RuralAnemone" /></p><br>
   </html>
-
-## Other stuff: <br>
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/RuralAnemone/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/RuralAnemone/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/RuralAnemone/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-<a href="https://octoprofile.vercel.app/user?id=RuralAnemone">Check out my Octoprofile</a>
-</html>
