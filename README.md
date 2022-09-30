@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Didact+Gothic&size=23&duration=2000&pause=420&color=9D1DF7&width=435&lines=yo;I'm+rural;I+sometimes+code+decent+things;I+like+to+think+I'm+good+at+js" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Didact+Gothic&size=23&duration=2000&pause=420&color=9D1DF7&width=435&lines=yo;I'm+rural;I+sometimes+code+decent+things;I+like+to+think+I'm+good+at+js;uh;yeah;so+there;" alt="Typing SVG" /></a>
 <h1 align="center">hi 👋, I'm rural</h1>
 <h3 align="center">a musician who moonlights as a bad programmer</h3>
 <h2>the funny:</h2>
