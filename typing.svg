@@ -16,7 +16,7 @@
 	</style>
 	
     <path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d21.end' dur='2420ms'
+        <animate id='d0' attributeName='d' begin='0s;d29.end' dur='2420ms'
             values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
             keyTimes='0;0.66115702479339;0.83471074380165;1' />
     </path>
@@ -297,6 +297,110 @@
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path21'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path22'>
+        <animate id='d22' attributeName='d' begin='d21.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path22'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path23'>
+        <animate id='d23' attributeName='d' begin='d22.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path23'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path24'>
+        <animate id='d24' attributeName='d' begin='d23.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path24'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path25'>
+        <animate id='d25' attributeName='d' begin='d24.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path25'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path26'>
+        <animate id='d26' attributeName='d' begin='d25.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path26'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path27'>
+        <animate id='d27' attributeName='d' begin='d26.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path27'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path28'>
+        <animate id='d28' attributeName='d' begin='d27.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path28'>
+            ...
+        </textPath>
+    </text>
+
+    <path id='path29'>
+        <animate id='d29' attributeName='d' begin='d28.end' dur='2420ms'
+            values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0'
+            keyTimes='0;0.66115702479339;0.83471074380165;1' />
+    </path>
+    <text font-family='"Didact Gothic", monospace' fill='#9D1DF7' font-size='23'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path29'>
             ...
         </textPath>
     </text>
