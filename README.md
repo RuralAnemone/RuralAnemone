@@ -4,7 +4,7 @@
 <br>
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/RuralAnemone/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/RuralAnemone/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/RuralAnemone/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 <br>
-<a href="https://octoprofile.vercel.app/user?id=RuralAnemone&theme=discord">Check out my Octoprofile</a>
+<a href="https://octoprofile.vercel.app/user?id=RuralAnemone">Check out my Octoprofile</a>
 <h2>the funny:</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="the funny" />
 <h2>about me:</h2>
@@ -27,7 +27,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RuralAnemone?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/RuralAnemone?color=g&label=User%20Followers&logo=github">
        </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuralAnemone&no-frame=trueno-bg=true" alt="RuralAnemone" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuralAnemone&no-frame=trueno-bg=true&theme=discord" alt="RuralAnemone" /></a> </p>
 
 - 🔭 I’m currently working on [a snake ai](https://github.com/RuralAnemone/snek).
 
