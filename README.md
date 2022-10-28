@@ -9,23 +9,23 @@
 <img src="https://readme-jokes.vercel.app/api" alt="the funny" />
 <h2>about me:</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=RuralAnemone&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /> 
-  <img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os">
-  <img src="https://img.shields.io/badge/Editor-replit-blue/?logo=replit&logoColor=darkgrey&color=darkgrey" alt="editor">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&color=blue" alt="editor2">
-  <img src="https://img.shields.io/reddit/user-karma/combined/RuralAnemone_?logo=reddit" alt="Reddit User Karma">
-  <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
-  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+  <a href="./"><img src="https://komarev.com/ghpvc/?username=RuralAnemone&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /></a>
+  <a href="https://3kh0.ruralanemone.tech/dump/redirect.html?to=https%3A%2F%2Fgithub.com%2Fruralanemone&local=true"><img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os"></a>
+  <a href="https://repl.it"><img src="https://img.shields.io/badge/Editor-replit-blue/?logo=replit&logoColor=darkgrey&color=darkgrey" alt="editor"></a>
+  <a href="https://google.com/search?q=vs+code+idk"><img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&color=blue" alt="editor2"></a>
+  <a href="https://reddit.com/u/ruralanemone>"<img src="https://img.shields.io/reddit/user-karma/combined/RuralAnemone_?logo=reddit" alt="Reddit User Karma"></a>
+  <a href="https://open.spotify.com/user/865gvwh1q8cz6cvadsyelnna2"><img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music"></a>
+  <a href="https://js.org"><img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js"></a>
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img src="https://img.shields.io/badge/Knows-BrainFuck-F00?logo=brainfuck" alt="brainfuck">
-  <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
-  <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-  <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
-  <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
-  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/RuralAnemone?label=Sponsors&logo=githubsponsors&style=flat">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RuralAnemone?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/RuralAnemone?color=g&label=User%20Followers&logo=github">
+  <a href="https://il.ax/watch?v=hdHjjBS4cs8"><img src="https://img.shields.io/badge/Knows-BrainFuck-F00?logo=brainfuck" alt="brainfuck"></a>
+  <a href="https://stackoverflow.com/users/17834675/rural-anemone"><img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack"></a>
+  <a href="https://gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red"></a>
+  <a href="https://opera.com/gx"><img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d"></a>
+  <a href="https://steampowered.com"><img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838"></a>
+  <a href="https://discord.id/?prefill=317304545451573248"><img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord"></a>
+  <a href="https://ko-fi.com/ruralanemone"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/RuralAnemone?label=Sponsors&logo=githubsponsors&style=flat"></a>
+  <a href="./"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RuralAnemone?color=yellow&label=User%20Stars&logo=github&logoColor=yellow"></a>
+  <a href="./"><img alt="GitHub followers" src="https://img.shields.io/github/followers/RuralAnemone?color=g&label=User%20Followers&logo=github"></a>
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuralAnemone&no-frame=trueno-bg=true&theme=discord" alt="RuralAnemone" /></a> </p>
 
