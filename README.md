@@ -6,7 +6,7 @@
 <br>
 <a href="https://octoprofile.vercel.app/user?id=RuralAnemone">Check out my Octoprofile</a>
 <h2>give me your ip (please? 🥺)</h2>
-<a href="https://cdn.ruralanemone.tech/e/e.html" target="_blank">click</a>
+<a href="https://cdn1.ruralanemone.tech/e/e.html" target="_blank">click</a>
 <h2>the funny:</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="the funny" />
 <h2>about me:</h2>
