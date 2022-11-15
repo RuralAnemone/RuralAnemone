@@ -43,7 +43,7 @@
 
 - 📫 How to reach me: [my epic discord server](https://discord.gg/PF3Kc8W6AV) or [my email](mailto:dev@ruralanemone.tech)
 
-- ⚡ Fun fact [I have been playing piano for like 10 years and am probably about to go professional](https://ruralanemone.sellix.io/category/63211d2f727d4)!
+- ⚡ Fun fact I have been playing piano for like 10 years and I still have no idea how or where to apply it; yay!
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
