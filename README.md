@@ -31,9 +31,11 @@
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuralAnemone&no-frame=trueno-bg=true&theme=discord" alt="RuralAnemone" /></a> </p>
 
-- 🔭 I’m currently working on [a snake ai](https://github.com/RuralAnemone/snek).
+- 🔭 I’m currently working on [a frontend for ](https://github.com/RuralAnemone/clowncryption-frontend)[clowncryption](https://github.com/BradyBangasser/ClownCryption).
 
-- 🌱 I’m currently learning [Java](https://www.logigroup.com/images/modules/technologies/dev/developpement_java_maroc.gif).
+- 🌱 I’m currently learning ![java](https://cdn-icons-png.flaticon.com/16/226/226777.png).
+
+- ![](https://cdn.iconscout.com/icon/free/png-16/twitch-20-721977.png) I do coding (and sometimes gaming) streams [on twitch](https://twitch.tv/ruralanemone) intermittently, though I'm trying to do it more...
 
 - 👯 I’m looking to collaborate on anything you can help with ;-;
 
