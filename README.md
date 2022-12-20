@@ -1,14 +1,21 @@
-<a href="https://git.io/typing-svg"><img src="/typing.svg" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="/typing.svg" alt="Typing SVG" /></a></p>
 <h1 align="center">hi 👋, I'm rural</h1>
 <h3 align="center">a musician who moonlights as a bad programmer</h3>
 <br>
+<div align="center">
+<h2 align="left">Stats</h2>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=gotham&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dark" alt="RuralAnemone" /></p><br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/RuralAnemone/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/RuralAnemone/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/RuralAnemone/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-<br>
 <a href="https://octoprofile.vercel.app/user?id=RuralAnemone">Check out my Octoprofile</a>
+</div>
+<hr>
 <h2>give me your ip (please? 🥺)</h2>
 <a href="https://cdn1.ruralanemone.tech/e/e.html" target="_blank">open in new tab &#8811;</a>
-<h2>the funny:</h2>
-<img src="https://readme-jokes.vercel.app/api" alt="the funny" />
+
 <h2>about me:</h2>
 <p align="left"> 
   <a href="./"><img src="https://komarev.com/ghpvc/?username=RuralAnemone&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /></a>
@@ -47,6 +54,10 @@
 
 - ⚡ Fun fact I have been playing piano for like 10 years and I still have no idea how or where to apply it; yay!
 
+<h2>the funny:</h2>
+<img src="https://readme-jokes.vercel.app/api" alt="the funny" />
+
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/RuralAnemone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RuralAnemone" height="30" width="40" /></a>
@@ -54,10 +65,3 @@
 </p>
 <p align="left"> <a href="https://twitter.com/RuralAnemone" target="blank"><img src="https://img.shields.io/twitter/follow/RuralAnemone?logo=twitter&style=for-the-badge" alt="RuralAnemone" /></a> <br>
 <a href="https://discord.gg/PF3Kc8W6AV" target="blank"><img align="center" src="https://img.shields.io/discord/974705517819723776?label=Server&logo=discord&style=for-the-badge" alt="discord"></a></p>
-
-
-<h2 align="left">Stats</h2>
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RuralAnemone&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="RuralAnemone" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dark" alt="RuralAnemone" /></p><br>
-  </html>
