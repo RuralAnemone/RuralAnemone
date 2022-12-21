@@ -8,6 +8,16 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=gotham&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dark" alt="RuralAnemone" /></p><br>
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 6 hrs 24 mins
+
+C            6 hrs 12 mins   ████████████████████████▒   96.98 %
+JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/RuralAnemone/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/RuralAnemone/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/RuralAnemone/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 <a href="https://octoprofile.vercel.app/user?id=RuralAnemone">Check out my Octoprofile</a>
