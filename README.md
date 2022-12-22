@@ -10,10 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 24 mins
+Total Time: 6 hrs 27 mins
 
-C            6 hrs 12 mins   ████████████████████████▒   96.98 %
-JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+C            6 hrs 12 mins   ████████████████████████░   96.12 %
+JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Nim          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
