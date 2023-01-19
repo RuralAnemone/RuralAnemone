@@ -52,7 +52,7 @@ Java               13 mins         █░░░░░░░░░░░░░░
 
 - 🔭 I’m currently working on [a frontend for ](https://github.com/RuralAnemone/clowncryption-frontend)[clowncryption](https://github.com/BradyBangasser/ClownCryption).
 
-- 🌱 I’m currently learning ![java](https://cdn-icons-png.flaticon.com/16/226/226777.png).
+- 🌱 I’m currently learning ![java](https://cdn-icons-png.flaticon.com/16/226/226777.png), ![react](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-16.png)
 
 - ![](https://cdn.iconscout.com/icon/free/png-16/twitch-20-721977.png) I do coding (and sometimes gaming) streams [on twitch](https://twitch.tv/ruralanemone) intermittently, though I'm trying to do it more...
 
