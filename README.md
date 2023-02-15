@@ -5,8 +5,8 @@
 <div align="center">
 <h2 align="left">Stats</h2>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=gotham&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dark" alt="RuralAnemone" /></p><br>
+<p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly" alt="RuralAnemone" /></p><br>
 <!--START_SECTION:waka-->
 
 ```text
@@ -46,7 +46,7 @@ Other        12 mins         ██░░░░░░░░░░░░░░░
   <a href="./"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RuralAnemone?color=yellow&label=User%20Stars&logo=github&logoColor=yellow"></a>
   <a href="./"><img alt="GitHub followers" src="https://img.shields.io/github/followers/RuralAnemone?color=g&label=User%20Followers&logo=github"></a>
        </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuralAnemone&no-frame=trueno-bg=true&theme=discord" alt="RuralAnemone" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuralAnemone&no-frame=trueno-bg=true&theme=dracula" alt="RuralAnemone" /></a> </p>
 
 - 🔭 I’m currently working on [a frontend for ](https://github.com/RuralAnemone/clowncryption-frontend)[clowncryption](https://github.com/BradyBangasser/ClownCryption).
 
@@ -62,7 +62,7 @@ Other        12 mins         ██░░░░░░░░░░░░░░░
 
 - 📫 How to reach me: [my epic discord server](https://discord.gg/PF3Kc8W6AV) or [my email](mailto:dev@ruralanemone.tech)
 
-- ⚡ Fun fact I have been playing piano for like 10 years and I still have no idea how or where to apply it; yay!
+- ⚡ Fun fact: I have been playing piano for like 10 years and I still have no idea how or where to apply it; yay!
 
 <h2>the funny:</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="the funny" />
