@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 58 mins
+Total Time: 1 hr 31 mins
 
-Java         1 hr 24 mins    ██████████████████░░░░░░░   71.55 %
-Desmos       31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Java         57 mins         ███████████████▓░░░░░░░░░   63.14 %
+Desmos       31 mins         ████████▓░░░░░░░░░░░░░░░░   34.01 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
