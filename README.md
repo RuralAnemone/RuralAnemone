@@ -10,10 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 mins
+Total Time: 2 mins
 
-Java         16 mins         █████████████████████▓░░░   86.21 %
-JavaScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+JavaScript   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
