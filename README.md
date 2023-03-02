@@ -10,10 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
+Total Time: 1 hr
 
-Java    0 secs          ████████████████▓░░░░░░░░   66.19 %
-jsonc   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.81 %
+Java    55 mins         ██████████████████████▓░░   91.04 %
+bat     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+jsonc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
