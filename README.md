@@ -7,6 +7,8 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly" alt="RuralAnemone" /></p><br>
+↓↓↓ only using this for school now lol ↓↓↓
+<br><br>
 <!--START_SECTION:waka-->
 
 ```text
