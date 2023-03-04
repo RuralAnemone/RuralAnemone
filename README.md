@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 26 mins
+Total Time: 7 hrs 30 mins
 
-Java    2 hrs 21 mins   ████████████████████████░   96.30 %
-bat     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-jsonc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other    4 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.76 %
 ```
 
 <!--END_SECTION:waka-->
