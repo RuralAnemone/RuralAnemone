@@ -14,6 +14,10 @@
 ```text
 Total Time: 4 hrs 50 mins
 
+well I did some java but I have no idea why it's only showing 'other'
+guh
+skull emoji
+
 Other        3 hrs 11 mins   ████████████████▓░░░░░░░░   66.08 %
 ```
 
@@ -24,6 +28,12 @@ Other        3 hrs 11 mins   ████████████████▓
 <hr>
 <h2>give me your ip (please? 🥺)</h2>
 <a href="https://cdn1.ruralanemone.tech/e/e.html" target="_blank">open in new tab &#8811;</a>
+
+<hr>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=865gvwh1q8cz6cvadsyelnna2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<hr>
 
 <h2>about me:</h2>
 <p align="left"> 
