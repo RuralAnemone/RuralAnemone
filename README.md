@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 50 mins
+Total Time: 9 hrs 11 mins
 
-well I did some java but I have no idea why it's only showing 'other'
-guh
-skull emoji
-
-Other        3 hrs 11 mins   ████████████████▓░░░░░░░░   66.08 %
+Other         6 hrs 33 mins   ██████████████████░░░░░░░   71.38 %
 ```
 
 <!--END_SECTION:waka-->
