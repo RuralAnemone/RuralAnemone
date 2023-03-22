@@ -31,7 +31,7 @@ Other        3 hrs 11 mins   ████████████████▓
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=865gvwh1q8cz6cvadsyelnna2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=865gvwh1q8cz6cvadsyelnna2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 <hr>
 
