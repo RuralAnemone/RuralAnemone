@@ -6,9 +6,7 @@
 <h2 align="left">Stats</h2>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="RuralAnemone" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly" alt="RuralAnemone" /></p><br>
-↓↓↓ only using this for school now lol ↓↓↓
-<br><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly" alt="RuralAnemone" /></p>
 <!--START_SECTION:waka-->
 
 ```text
@@ -83,7 +81,7 @@ Other        27 mins         ███░░░░░░░░░░░░░░
 <p align="left"> <a href="https://twitter.com/RuralAnemone" target="blank"><img src="https://img.shields.io/twitter/follow/RuralAnemone?logo=twitter&style=for-the-badge" alt="RuralAnemone" /></a> <br>
 <a href="https://discord.gg/PF3Kc8W6AV" target="blank"><img align="center" src="https://img.shields.io/discord/974705517819723776?label=Server&logo=discord&style=for-the-badge" alt="discord"></a></p>
 
-```SILAS THE SKELETON!!!!
+```SILAS THE SKELETON!!!! 🐗🤯
 ▒▒▒░░░░░░░░░░▄▐░░░░
 ▒░░░░░░▄▄▄░░▄██▄░░░
 ░░░░░░▐▀█▀▌░░░░▀█▄░
