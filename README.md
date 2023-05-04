@@ -96,6 +96,11 @@ Other            1 hr 5 mins     ██▓░░░░░░░░░░░░�
 
 ---
 
+## socials
+
+- <a rel="me" href="https://techhub.social/@ruralanemone">mastodon</a>
+- [discord](https://discord.com/users/317304545451573248)
+
 ## SILAS THE SKELETON
 
 ```SILAS THE SKELETON!!!! 🐗🤯
