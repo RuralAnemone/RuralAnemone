@@ -4,7 +4,13 @@
 
 ---
 
-## Stats
+<details><summary>
+
+## clutter
+
+</summary>
+
+### Stats
 
 ![image of stats](https://github-readme-stats.vercel.app/api/?username=RuralAnemone&theme=dracula&hide_border=true&hide_title=true&count_private=true)
 ![another image detailing yet more stats](https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly&hide_border=true)
@@ -34,7 +40,7 @@ Other            1 hr 5 mins     ██▓░░░░░░░░░░░░�
 
 ---
 
-## about me:
+### about me:
 
 [![profile visitors badge](https://komarev.com/ghpvc/?username=RuralAnemone&label=Profile%20Visitors&color=001eff&style=flat)](.)
 [![I use debian btw](https://img.shields.io/badge/OS-debian-lightgrey/?logo=debian&color=d70751)](https://3kh0.ruralanemone.tech/dump/redirect.html?to=https%3A%2F%2Fgithub.com%2Fruralanemone&local=true)
@@ -59,31 +65,34 @@ Other            1 hr 5 mins     ██▓░░░░░░░░░░░░�
 
 ---
 
-## default github readme template:
-### `emojis == 🤮`
+### default github readme template:
+#### `emojis == 🤮`
 
-- 🔭 I’m currently working on a
+- 🔭 I’m currently working on
+  - [the skewer website](https://mvskewer.vercel.app)
+  - [learning cobol](https://github.com/RuralAnemone/learning-cobol) (see below)
 
-- 🌱 I’m currently learning [COBOL](https://en.wikipedia.org/wiki/COBOL), [![react logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-16.png)](https://react.dev), [![golang logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/32px-Go_Logo_Blue.svg.png)](https://go.dev)
+- 🌱 I’m currently learning [COBOL logo](https://en.wikipedia.org/wiki/COBOL), [![react logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-16.png)](https://react.dev), [![golang logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/32px-Go_Logo_Blue.svg.png)](https://go.dev)
 
 - ![twitch logo](https://cdn.iconscout.com/icon/free/png-16/twitch-20-721977.png) I do coding (and sometimes gaming) streams [on twitch](https://twitch.tv/ruralanemone) intermittently
-
-- 👯 I’m looking to collaborate on something fun!
 
 <!-- - 🤝 I’m looking for help with [...] -->
 
 <!-- - 👨‍💻 ~~All~~ some of my projects are available at [https://ruralanemone.tech/](https://ruralanemone.tech/). -->
 
 - 📫 How to reach me:
-  - give up
-  - [discord](https://discord.com/users/317304545451573248)
+  1. give up
+  2. [discord](https://discord.com/users/317304545451573248)
+  3. <a rel="me" href="https://techhub.social/@ruralanemone">mastodon</a>
 
 - ⚡ Fun fact: I have been playing piano for like 12 years and I still have no idea how or where to apply it; yay!
 
 ---
 
-## the funny:
+### the funny:
 ![the funny](https://readme-jokes.vercel.app/api)
+
+</details>
 
 ---
 
