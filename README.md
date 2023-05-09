@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 13 mins
+Total Time: 7 hrs 39 mins
 
-Python           2 hrs 46 mins   ███████████░░░░░░░░░░░░░░   44.64 %
-TypeScript       1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-HTML             28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Git              23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-PowerShell       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Python           2 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.25 %
+TypeScript       1 hr 50 mins    ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+HTML             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Desmos           27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Git              24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->
