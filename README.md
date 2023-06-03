@@ -16,14 +16,14 @@
 ![another image detailing yet more stats](https://github-readme-streak-stats.herokuapp.com/?user=RuralAnemone&theme=dracula&mode=weekly&hide_border=true)
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 2 hrs 10 mins
+```txt
+Total Time: 2 hrs 16 mins
 
-Desmos        56 mins         ███████████░░░░░░░░░░░░░░   43.36 %
-TypeScript    30 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-JSON          10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-XML           10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Git Config    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Desmos       1 hr 17 mins    ██████████████░░░░░░░░░░░   56.60 %
+TypeScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+JSON         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+XML          10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
