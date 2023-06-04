@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 16 mins
+Total Time: 1 hr 54 mins
 
-Desmos       1 hr 17 mins    ██████████████░░░░░░░░░░░   56.60 %
-TypeScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-JSON         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-XML          10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Desmos        54 mins         ████████████░░░░░░░░░░░░░   47.44 %
+TypeScript    11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+JSON          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+XML           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Git Config    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
