@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 45 mins
+Total Time: 2 hrs 54 mins
 
-Rust          57 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-Desmos        48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-TypeScript    34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Java          29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-JavaScript    14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Rust          57 mins         ████████▒░░░░░░░░░░░░░░░░   32.86 %
+TypeScript    34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Java          29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+JavaScript    14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+C             13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 ```
 
 <!--END_SECTION:waka-->
