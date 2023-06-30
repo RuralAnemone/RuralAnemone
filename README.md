@@ -17,11 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 2 mins
+Total Time: 2 mins
 
-C            41 mins         ████████████████▒░░░░░░░░   65.95 %
-Markdown     19 mins         ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+C   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
