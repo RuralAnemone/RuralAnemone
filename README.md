@@ -17,9 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 mins
+Total Time: 26 mins
 
-HTML   7 mins          █████████████████████████   100.00 %
+C      19 mins         ██████████████████▒░░░░░░   73.08 %
+HTML   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
 ```
 
 <!--END_SECTION:waka-->
