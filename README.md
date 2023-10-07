@@ -74,7 +74,7 @@ Git              18 mins         █░░░░░░░░░░░░░░�
   - [the skewer website](https://mvskewer.vercel.app)
   - [learning cobol](https://github.com/RuralAnemone/learning-cobol) (see below)
 
-- 🌱 I’m currently learning [COBOL logo](https://en.wikipedia.org/wiki/COBOL), [![react logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-16.png)](https://react.dev), [![golang logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/32px-Go_Logo_Blue.svg.png)](https://go.dev)
+- 🌱 I’m currently learning [COBOL](https://en.wikipedia.org/wiki/COBOL), [![react logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-16.png)](https://react.dev), [![golang logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/32px-Go_Logo_Blue.svg.png)](https://go.dev), [![haskell logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/16px-Haskell-Logo.svg.png)](https://haskell.org)
 
 - ![twitch logo](https://cdn.iconscout.com/icon/free/png-16/twitch-20-721977.png) I do coding (and sometimes gaming) streams [on twitch](https://twitch.tv/ruralanemone) intermittently
 
