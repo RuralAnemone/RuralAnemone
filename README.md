@@ -92,6 +92,7 @@ Text         13 mins         ▓░░░░░░░░░░░░░░░░
 ---
 
 ### the funny:
+###### warning: is probably not funny
 ![the funny](https://readme-jokes.vercel.app/api)
 
 </details>
