@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 25 mins
+Total Time: 7 hrs 24 mins
 
-Haskell      2 hrs 59 mins   █████████████▓░░░░░░░░░░░   55.30 %
-C            1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Other        30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Haskell      4 hrs 30 mins   ███████████████▒░░░░░░░░░   60.97 %
+CSS          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Bash         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Other        32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Git Config   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
