@@ -17,9 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 11 mins
 
-No activity tracked
+QML     8 mins          ███████████████████▒░░░░░   77.73 %
+Other   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
 ```
 
 <!--END_SECTION:waka-->
