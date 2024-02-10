@@ -17,12 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 mins
+Total Time: 54 mins
 
-Markdown   25 mins         ████████████████░░░░░░░░░   63.47 %
-Java       10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-C          3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Haskell    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown   29 mins         █████████████▓░░░░░░░░░░░   54.20 %
+C++        25 mins         ███████████▒░░░░░░░░░░░░░   45.80 %
 ```
 
 <!--END_SECTION:waka-->
