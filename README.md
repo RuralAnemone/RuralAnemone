@@ -17,10 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 54 mins
+Total Time: 1 hr 1 min
 
-Markdown   29 mins         █████████████▓░░░░░░░░░░░   54.20 %
-C++        25 mins         ███████████▒░░░░░░░░░░░░░   45.80 %
+Markdown   36 mins         ██████████████▓░░░░░░░░░░   59.24 %
+C++        25 mins         ██████████░░░░░░░░░░░░░░░   40.60 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
