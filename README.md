@@ -17,9 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 21 mins
 
-Markdown   11 mins         █████████████████████████   100.00 %
+Markdown   11 mins         █████████████▓░░░░░░░░░░░   54.09 %
+Desmos     9 mins          ███████████▒░░░░░░░░░░░░░   45.91 %
 ```
 
 <!--END_SECTION:waka-->
