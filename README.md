@@ -17,11 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 mins
+Total Time: 1 min
 
-C          11 mins         ████████████▓░░░░░░░░░░░░   50.91 %
-Desmos     10 mins         ███████████▓░░░░░░░░░░░░░   46.61 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Makefile   1 min           ███████████████████▓░░░░░   79.05 %
+Other      0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
 ```
 
 <!--END_SECTION:waka-->
