@@ -17,11 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 51 mins
 
-Desmos     8 mins          ████████████████████▓░░░░   82.47 %
-Makefile   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Markdown   19 mins         █████████▒░░░░░░░░░░░░░░░   37.26 %
+Java       17 mins         ████████▒░░░░░░░░░░░░░░░░   33.08 %
+Desmos     8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+Other      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
