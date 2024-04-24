@@ -17,12 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 7 mins
+Total Time: 2 hrs 11 mins
 
-Markdown   1 hr 36 mins    ███████████████████░░░░░░   76.14 %
-Python     25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-Java       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown   1 hr 36 mins    ██████████████████▒░░░░░░   73.83 %
+Python     25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Java       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Desmos     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
