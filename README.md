@@ -17,10 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 mins
+Total Time: 26 mins
 
-Desmos   16 mins         ██████████████████▒░░░░░░   73.43 %
-Python   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+Desmos   20 mins         ███████████████████▒░░░░░   77.59 %
+Python   6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
 ```
 
 <!--END_SECTION:waka-->
