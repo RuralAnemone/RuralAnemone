@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 11 mins
+Total Time: 8 hrs 45 mins
 
-C            4 hrs 42 mins   ████████████▓░░░░░░░░░░░░   51.17 %
-Desmos       1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Vim Script   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-CMake        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+C            4 hrs 42 mins   █████████████▒░░░░░░░░░░░   53.73 %
+Desmos       1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+Vim Script   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+CMake        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Git          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
