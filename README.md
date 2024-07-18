@@ -17,12 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 mins
+Total Time: 5 mins
 
-HTML   43 mins         █████████████████████▓░░░   86.23 %
-Text   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-zip    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+HTML   4 mins          █████████████████████▓░░░   86.67 %
+JSON   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
 ```
 
 <!--END_SECTION:waka-->
