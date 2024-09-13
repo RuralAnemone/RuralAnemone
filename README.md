@@ -17,9 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 mins
+Total Time: 2 hrs 11 mins
 
-Bash   12 mins         █████████████████████████   100.00 %
+Bash         1 hr 22 mins    ███████████████▓░░░░░░░░░   62.60 %
+HTML         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Other        14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Rust         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
