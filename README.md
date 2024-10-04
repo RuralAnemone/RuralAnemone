@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 19 mins
+Total Time: 8 hrs
 
-Rust         3 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.11 %
-TypeScript   2 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.46 %
-JavaScript   2 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-Python       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+TypeScript   2 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   35.82 %
+Rust         2 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.49 %
+JavaScript   2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Python       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
