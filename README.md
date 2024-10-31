@@ -17,11 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 11 mins
+Total Time: 5 hrs 43 mins
 
-Python   5 hrs 10 mins   █████████████████████████   99.51 %
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   5 hrs 42 mins   █████████████████████████   99.75 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
