@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 47 mins
+Total Time: 2 hrs 25 mins
 
-Other   1 hr 41 mins    ███████████████████████▓░   94.56 %
-SQL     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-zip     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other   1 hr 59 mins    ████████████████████▒░░░░   81.99 %
+Bash    21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+SQL     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
