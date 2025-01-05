@@ -17,12 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 mins
+Total Time: 0 secs
 
-Text    13 mins         ████████████████████░░░░░   80.16 %
-fsh     2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Bash    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
