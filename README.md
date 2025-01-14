@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 31 mins
+Total Time: 2 hrs 41 mins
 
-Other        38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-Python       36 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-Docker       34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Markdown     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-gitconfig    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Docker       54 mins         ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Python       54 mins         ████████▒░░░░░░░░░░░░░░░░   33.86 %
+YAML         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Other        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Git Config   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
