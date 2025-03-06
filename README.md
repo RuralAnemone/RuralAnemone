@@ -17,11 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 mins
+Total Time: 42 mins
 
-Markdown   8 mins          ███████████████████████░░   92.54 %
-Python     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown   31 mins         ██████████████████▒░░░░░░   73.03 %
+YAML       10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
