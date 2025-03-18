@@ -17,11 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 mins
+Total Time: 0 secs
 
-Bash       8 mins          █████████████████████▒░░░   85.49 %
-Python     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
