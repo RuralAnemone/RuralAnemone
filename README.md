@@ -17,12 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 10 mins
 
-Python     26 mins         ███████████████████████▒░   93.71 %
-Docker     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
