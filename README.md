@@ -17,9 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 18 mins
 
-Python   10 mins         █████████████████████████   100.00 %
+Python   10 mins         ██████████████░░░░░░░░░░░   56.21 %
+Rust     4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+JSON     3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
 ```
 
 <!--END_SECTION:waka-->
