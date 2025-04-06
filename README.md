@@ -17,11 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 6 mins
 
-Other    6 mins          ██████████████▒░░░░░░░░░░   56.92 %
-Python   4 mins          ██████████▓░░░░░░░░░░░░░░   42.62 %
-CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other   6 mins          ████████████████████████▓   99.21 %
+CSS     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
