@@ -17,10 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 57 mins
 
-Kotlin     10 mins         ████████████████████████▓   98.39 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Bash       47 mins         ████████████████████▓░░░░   82.03 %
+Kotlin     10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
