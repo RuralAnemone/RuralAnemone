@@ -17,10 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 58 mins
+Total Time: 1 hr 55 mins
 
-Bash     48 mins         ████████████████████▓░░░░   82.59 %
-Kotlin   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+Other         56 mins         ████████████▒░░░░░░░░░░░░   48.79 %
+Bash          48 mins         ██████████▒░░░░░░░░░░░░░░   41.90 %
+hlsplaylist   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
 ```
 
 <!--END_SECTION:waka-->
