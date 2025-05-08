@@ -17,12 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 9 mins
+Total Time: 8 mins
 
-Other         56 mins         ████████████████████▒░░░░   81.11 %
-hlsplaylist   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-YAML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-conf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+YAML   7 mins          ██████████████████████▓░░   90.80 %
+Bash   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+conf   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
