@@ -17,9 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 16 mins
 
-JavaScript   3 mins          █████████████████████████   100.00 %
+Rust         7 mins          ███████████▓░░░░░░░░░░░░░   47.06 %
+Bash         5 mins          ████████░░░░░░░░░░░░░░░░░   32.29 %
+JavaScript   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
