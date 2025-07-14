@@ -17,10 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 53 mins
 
-Bash    5 mins          ████████████████████████▓   98.84 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other      25 mins         ███████████▓░░░░░░░░░░░░░   46.97 %
+C++        13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Makefile   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Bash       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
 ```
 
 <!--END_SECTION:waka-->
