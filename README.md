@@ -17,9 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 mins
+Total Time: 4 mins
 
-Bash   29 mins         █████████████████████████   100.00 %
+Bash   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
