@@ -17,9 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 40 mins
 
-Binary   0 secs          █████████████████████████   100.00 %
+Bash       19 mins         ████████████▒░░░░░░░░░░░░   48.98 %
+Markdown   16 mins         ██████████▓░░░░░░░░░░░░░░   42.40 %
+Other      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Binary     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
