@@ -17,9 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 11 mins
 
-Bash   3 mins          █████████████████████████   100.00 %
+Bash    10 mins         ████████████████████████▓   99.25 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
