@@ -17,10 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 13 mins
+Total Time: 8 mins
 
-Bash    1 hr 12 mins    ████████████████████████▓   98.51 %
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Bash    7 mins          ██████████████████████░░░   88.33 %
+Other   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
 ```
 
 <!--END_SECTION:waka-->
