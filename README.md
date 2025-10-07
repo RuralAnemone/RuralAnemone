@@ -17,10 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 mins
+Total Time: 7 mins
 
-Bash    7 mins          ██████████████████████░░░   88.33 %
-Other   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+C++       5 mins          ████████████████▓░░░░░░░░   66.81 %
+Crontab   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.19 %
 ```
 
 <!--END_SECTION:waka-->
