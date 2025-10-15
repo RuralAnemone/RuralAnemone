@@ -17,9 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 1 hr 3 mins
 
-INI   3 mins          █████████████████████████   100.00 %
+Markdown   37 mins         ██████████████▓░░░░░░░░░░   59.23 %
+Bash       10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+HTML       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Text       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+INI        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
