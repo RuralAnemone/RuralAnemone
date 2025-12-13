@@ -17,11 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 mins
+Total Time: 6 mins
 
-Other        6 mins          ████████████░░░░░░░░░░░░░   48.15 %
-JavaScript   6 mins          ███████████▓░░░░░░░░░░░░░   47.07 %
-Bash         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
