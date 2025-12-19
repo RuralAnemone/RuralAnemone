@@ -17,9 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 12 mins
 
-No activity tracked
+JavaScript    9 mins          ██████████████████░░░░░░░   71.76 %
+hlsplaylist   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+fstab         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
