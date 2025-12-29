@@ -17,9 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 29 mins
 
-No activity tracked
+jsonl   17 mins         ██████████████▓░░░░░░░░░░   58.84 %
+JSON    12 mins         ██████████▒░░░░░░░░░░░░░░   41.16 %
 ```
 
 <!--END_SECTION:waka-->
