@@ -17,9 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 27 mins
 
-No activity tracked
+Markdown   16 mins         ██████████████▓░░░░░░░░░░   58.80 %
+GLSL       10 mins         █████████░░░░░░░░░░░░░░░░   36.46 %
+INI        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
