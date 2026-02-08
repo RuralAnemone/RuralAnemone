@@ -17,12 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 1 min
+Total Time: 1 hr 15 mins
 
-JavaScript   1 hr 11 mins    ██████████████▓░░░░░░░░░░   58.75 %
-Other        24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-Text         20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Bash         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+JavaScript   1 hr 11 mins    ███████████████████████▓░   94.44 %
+Bash         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
